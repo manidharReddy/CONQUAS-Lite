@@ -1,0 +1,460 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		07BB7178159D529200DECBE6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07BB7177159D529200DECBE6 /* UIKit.framework */; };
+		07BB717A159D529200DECBE6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07BB7179159D529200DECBE6 /* Foundation.framework */; };
+		07BB717C159D529200DECBE6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07BB717B159D529200DECBE6 /* CoreGraphics.framework */; };
+		07BB7182159D529200DECBE6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 07BB7180159D529200DECBE6 /* InfoPlist.strings */; };
+		07BB7184159D529200DECBE6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 07BB7183159D529200DECBE6 /* main.m */; };
+		07BB7188159D529200DECBE6 /* BCAAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 07BB7187159D529200DECBE6 /* BCAAppDelegate.m */; };
+		07BB718B159D529200DECBE6 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07BB7189159D529200DECBE6 /* MainStoryboard_iPhone.storyboard */; };
+		07BB718E159D529200DECBE6 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07BB718C159D529200DECBE6 /* MainStoryboard_iPad.storyboard */; };
+		07BB7191159D529200DECBE6 /* BCAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 07BB7190159D529200DECBE6 /* BCAViewController.m */; };
+		07BB7199159D529200DECBE6 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07BB7198159D529200DECBE6 /* SenTestingKit.framework */; };
+		07BB719A159D529200DECBE6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07BB7177159D529200DECBE6 /* UIKit.framework */; };
+		07BB719B159D529200DECBE6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07BB7179159D529200DECBE6 /* Foundation.framework */; };
+		07BB71A3159D529200DECBE6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71A1159D529200DECBE6 /* InfoPlist.strings */; };
+		07BB71A6159D529200DECBE6 /* CONQUAS_LiteTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 07BB71A5159D529200DECBE6 /* CONQUAS_LiteTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		07BB719C159D529200DECBE6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 07BB716A159D529200DECBE6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 07BB7172159D529200DECBE6;
+			remoteInfo = "CONQUAS Lite";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		07BB7173159D529200DECBE6 /* CONQUAS Lite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CONQUAS Lite.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		07BB7177159D529200DECBE6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		07BB7179159D529200DECBE6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		07BB717B159D529200DECBE6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		07BB717F159D529200DECBE6 /* CONQUAS Lite-Info.plist */ = {isa = PBXFileReference; path = "CONQUAS Lite-Info.plist"; sourceTree = "<group>"; };
+		07BB7181159D529200DECBE6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		07BB7183159D529200DECBE6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		07BB7185159D529200DECBE6 /* CONQUAS Lite-Prefix.pch */ = {isa = PBXFileReference; path = "CONQUAS Lite-Prefix.pch"; sourceTree = "<group>"; };
+		07BB7186159D529200DECBE6 /* BCAAppDelegate.h */ = {isa = PBXFileReference; path = BCAAppDelegate.h; sourceTree = "<group>"; };
+		07BB7187159D529200DECBE6 /* BCAAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BCAAppDelegate.m; sourceTree = "<group>"; };
+		07BB718A159D529200DECBE6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
+		07BB718D159D529200DECBE6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
+		07BB718F159D529200DECBE6 /* BCAViewController.h */ = {isa = PBXFileReference; path = BCAViewController.h; sourceTree = "<group>"; };
+		07BB7190159D529200DECBE6 /* BCAViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BCAViewController.m; sourceTree = "<group>"; };
+		07BB7197159D529200DECBE6 /* CONQUAS LiteTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CONQUAS LiteTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		07BB7198159D529200DECBE6 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		07BB71A0159D529200DECBE6 /* CONQUAS LiteTests-Info.plist */ = {isa = PBXFileReference; path = "CONQUAS LiteTests-Info.plist"; sourceTree = "<group>"; };
+		07BB71A2159D529200DECBE6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		07BB71A4159D529200DECBE6 /* CONQUAS_LiteTests.h */ = {isa = PBXFileReference; path = CONQUAS_LiteTests.h; sourceTree = "<group>"; };
+		07BB71A5159D529200DECBE6 /* CONQUAS_LiteTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CONQUAS_LiteTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		07BB7170159D529200DECBE6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07BB7178159D529200DECBE6 /* UIKit.framework in Frameworks */,
+				07BB717A159D529200DECBE6 /* Foundation.framework in Frameworks */,
+				07BB717C159D529200DECBE6 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		07BB7193159D529200DECBE6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07BB7199159D529200DECBE6 /* SenTestingKit.framework in Frameworks */,
+				07BB719A159D529200DECBE6 /* UIKit.framework in Frameworks */,
+				07BB719B159D529200DECBE6 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		07BB7168159D529200DECBE6 = {
+			isa = PBXGroup;
+			children = (
+				07BB717D159D529200DECBE6 /* CONQUAS Lite */,
+				07BB719E159D529200DECBE6 /* CONQUAS LiteTests */,
+				07BB7176159D529200DECBE6 /* Frameworks */,
+				07BB7174159D529200DECBE6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		07BB7174159D529200DECBE6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				07BB7173159D529200DECBE6 /* CONQUAS Lite.app */,
+				07BB7197159D529200DECBE6 /* CONQUAS LiteTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		07BB7176159D529200DECBE6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				07BB7177159D529200DECBE6 /* UIKit.framework */,
+				07BB7179159D529200DECBE6 /* Foundation.framework */,
+				07BB717B159D529200DECBE6 /* CoreGraphics.framework */,
+				07BB7198159D529200DECBE6 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		07BB717D159D529200DECBE6 /* CONQUAS Lite */ = {
+			isa = PBXGroup;
+			children = (
+				07BB7186159D529200DECBE6 /* BCAAppDelegate.h */,
+				07BB7187159D529200DECBE6 /* BCAAppDelegate.m */,
+				07BB7189159D529200DECBE6 /* MainStoryboard_iPhone.storyboard */,
+				07BB718C159D529200DECBE6 /* MainStoryboard_iPad.storyboard */,
+				07BB718F159D529200DECBE6 /* BCAViewController.h */,
+				07BB7190159D529200DECBE6 /* BCAViewController.m */,
+				07BB717E159D529200DECBE6 /* Supporting Files */,
+			);
+			path = "CONQUAS Lite";
+			sourceTree = "<group>";
+		};
+		07BB717E159D529200DECBE6 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				07BB717F159D529200DECBE6 /* CONQUAS Lite-Info.plist */,
+				07BB7180159D529200DECBE6 /* InfoPlist.strings */,
+				07BB7183159D529200DECBE6 /* main.m */,
+				07BB7185159D529200DECBE6 /* CONQUAS Lite-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		07BB719E159D529200DECBE6 /* CONQUAS LiteTests */ = {
+			isa = PBXGroup;
+			children = (
+				07BB71A4159D529200DECBE6 /* CONQUAS_LiteTests.h */,
+				07BB71A5159D529200DECBE6 /* CONQUAS_LiteTests.m */,
+				07BB719F159D529200DECBE6 /* Supporting Files */,
+			);
+			path = "CONQUAS LiteTests";
+			sourceTree = "<group>";
+		};
+		07BB719F159D529200DECBE6 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				07BB71A0159D529200DECBE6 /* CONQUAS LiteTests-Info.plist */,
+				07BB71A1159D529200DECBE6 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		07BB7172159D529200DECBE6 /* CONQUAS Lite */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 07BB71A9159D529200DECBE6 /* Build configuration list for PBXNativeTarget "CONQUAS Lite" */;
+			buildPhases = (
+				07BB716F159D529200DECBE6 /* Sources */,
+				07BB7170159D529200DECBE6 /* Frameworks */,
+				07BB7171159D529200DECBE6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "CONQUAS Lite";
+			productName = "CONQUAS Lite";
+			productReference = 07BB7173159D529200DECBE6 /* CONQUAS Lite.app */;
+			productType = "com.apple.product-type.application";
+		};
+		07BB7196159D529200DECBE6 /* CONQUAS LiteTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 07BB71AC159D529200DECBE6 /* Build configuration list for PBXNativeTarget "CONQUAS LiteTests" */;
+			buildPhases = (
+				07BB7192159D529200DECBE6 /* Sources */,
+				07BB7193159D529200DECBE6 /* Frameworks */,
+				07BB7194159D529200DECBE6 /* Resources */,
+				07BB7195159D529200DECBE6 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				07BB719D159D529200DECBE6 /* PBXTargetDependency */,
+			);
+			name = "CONQUAS LiteTests";
+			productName = "CONQUAS LiteTests";
+			productReference = 07BB7197159D529200DECBE6 /* CONQUAS LiteTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		07BB716A159D529200DECBE6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = BCA;
+				LastUpgradeCheck = 0430;
+				ORGANIZATIONNAME = "MobTwo Pte Ltd";
+			};
+			buildConfigurationList = 07BB716D159D529200DECBE6 /* Build configuration list for PBXProject "CONQUAS Lite" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 07BB7168159D529200DECBE6;
+			productRefGroup = 07BB7174159D529200DECBE6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				07BB7172159D529200DECBE6 /* CONQUAS Lite */,
+				07BB7196159D529200DECBE6 /* CONQUAS LiteTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		07BB7171159D529200DECBE6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07BB7182159D529200DECBE6 /* InfoPlist.strings in Resources */,
+				07BB718B159D529200DECBE6 /* MainStoryboard_iPhone.storyboard in Resources */,
+				07BB718E159D529200DECBE6 /* MainStoryboard_iPad.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		07BB7194159D529200DECBE6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07BB71A3159D529200DECBE6 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		07BB7195159D529200DECBE6 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		07BB716F159D529200DECBE6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07BB7184159D529200DECBE6 /* main.m in Sources */,
+				07BB7188159D529200DECBE6 /* BCAAppDelegate.m in Sources */,
+				07BB7191159D529200DECBE6 /* BCAViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		07BB7192159D529200DECBE6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07BB71A6159D529200DECBE6 /* CONQUAS_LiteTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		07BB719D159D529200DECBE6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 07BB7172159D529200DECBE6 /* CONQUAS Lite */;
+			targetProxy = 07BB719C159D529200DECBE6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		07BB7180159D529200DECBE6 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				07BB7181159D529200DECBE6 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		07BB7189159D529200DECBE6 /* MainStoryboard_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				07BB718A159D529200DECBE6 /* en */,
+			);
+			name = MainStoryboard_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		07BB718C159D529200DECBE6 /* MainStoryboard_iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				07BB718D159D529200DECBE6 /* en */,
+			);
+			name = MainStoryboard_iPad.storyboard;
+			sourceTree = "<group>";
+		};
+		07BB71A1159D529200DECBE6 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				07BB71A2159D529200DECBE6 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		07BB71A7159D529200DECBE6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		07BB71A8159D529200DECBE6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		07BB71AA159D529200DECBE6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CONQUAS Lite/CONQUAS Lite-Prefix.pch";
+				INFOPLIST_FILE = "CONQUAS Lite/CONQUAS Lite-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		07BB71AB159D529200DECBE6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CONQUAS Lite/CONQUAS Lite-Prefix.pch";
+				INFOPLIST_FILE = "CONQUAS Lite/CONQUAS Lite-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		07BB71AD159D529200DECBE6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/CONQUAS Lite.app/CONQUAS Lite";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CONQUAS Lite/CONQUAS Lite-Prefix.pch";
+				INFOPLIST_FILE = "CONQUAS LiteTests/CONQUAS LiteTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		07BB71AE159D529200DECBE6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/CONQUAS Lite.app/CONQUAS Lite";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CONQUAS Lite/CONQUAS Lite-Prefix.pch";
+				INFOPLIST_FILE = "CONQUAS LiteTests/CONQUAS LiteTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		07BB716D159D529200DECBE6 /* Build configuration list for PBXProject "CONQUAS Lite" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07BB71A7159D529200DECBE6 /* Debug */,
+				07BB71A8159D529200DECBE6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		07BB71A9159D529200DECBE6 /* Build configuration list for PBXNativeTarget "CONQUAS Lite" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07BB71AA159D529200DECBE6 /* Debug */,
+				07BB71AB159D529200DECBE6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		07BB71AC159D529200DECBE6 /* Build configuration list for PBXNativeTarget "CONQUAS LiteTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07BB71AD159D529200DECBE6 /* Debug */,
+				07BB71AE159D529200DECBE6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 07BB716A159D529200DECBE6 /* Project object */;
+}
