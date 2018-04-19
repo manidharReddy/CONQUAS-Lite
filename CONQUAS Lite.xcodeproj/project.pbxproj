@@ -7,6 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		077BF93415A8F54900AF4260 /* iconBBGA.png in Resources */ = {isa = PBXBuildFile; fileRef = 077BF93315A8F54900AF4260 /* iconBBGA.png */; };
+		07A29BE3159E022B008A98EB /* btnDoneUp.png in Resources */ = {isa = PBXBuildFile; fileRef = 07A29BE2159E022B008A98EB /* btnDoneUp.png */; };
+		07A29BE6159E0231008A98EB /* btnDoneDown.png in Resources */ = {isa = PBXBuildFile; fileRef = 07A29BE5159E0231008A98EB /* btnDoneDown.png */; };
+		07ACE607159EE15B00316300 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 07ACE606159EE15B00316300 /* libsqlite3.dylib */; };
+		07AE871C15B30CFB00B619EC /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07AE871B15B30CFB00B619EC /* data.plist */; };
+		07AEC11915BBF93800739487 /* bookCQMOnline.png in Resources */ = {isa = PBXBuildFile; fileRef = 07AEC10A15BBF93800739487 /* bookCQMOnline.png */; };
+		07B57BAD159F12E700014528 /* bookWardrobesKitchenCabinets.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07B57BA1159F12E700014528 /* bookWardrobesKitchenCabinets.jpeg */; };
+		07B57BAE159F12E700014528 /* bookPrecastConcreteElements.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07B57BA2159F12E700014528 /* bookPrecastConcreteElements.jpeg */; };
+		07B57BAF159F12E700014528 /* bookDesignAndMaterialVol1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07B57BA3159F12E700014528 /* bookDesignAndMaterialVol1.jpeg */; };
+		07B57BB0159F12E700014528 /* bookDesignAndMaterialVol2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07B57BA4159F12E700014528 /* bookDesignAndMaterialVol2.jpeg */; };
+		07B57BB1159F12E700014528 /* bookWaterproofingForExternalWall.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07B57BA5159F12E700014528 /* bookWaterproofingForExternalWall.jpeg */; };
+		07B57BB2159F12E700014528 /* bookCeramicTiling.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07B57BA6159F12E700014528 /* bookCeramicTiling.jpeg */; };
+		07B57BB3159F12E700014528 /* bookTimberFlooring.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07B57BA7159F12E700014528 /* bookTimberFlooring.jpeg */; };
+		07B57BB4159F12E700014528 /* bookMarbleAndGraniteFinishes.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07B57BA8159F12E700014528 /* bookMarbleAndGraniteFinishes.jpeg */; };
+		07B57BB5159F12E700014528 /* bookAluminiumWindow.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07B57BA9159F12E700014528 /* bookAluminiumWindow.jpeg */; };
+		07B57BB6159F12E700014528 /* bookWaterproofingForInternalWetAreas.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07B57BAA159F12E700014528 /* bookWaterproofingForInternalWetAreas.jpeg */; };
+		07B57BB7159F12E700014528 /* bookTimberDoors.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07B57BAB159F12E700014528 /* bookTimberDoors.jpeg */; };
+		07B57BB8159F12E700014528 /* bookPainting.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07B57BAC159F12E700014528 /* bookPainting.jpeg */; };
+		07B57BBB159F18EE00014528 /* viewBooks.m in Sources */ = {isa = PBXBuildFile; fileRef = 07B57BBA159F18EE00014528 /* viewBooks.m */; };
+		07B90CF815B9D41500110618 /* tips4.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90CEB15B9D41500110618 /* tips4.png */; };
+		07B90CF915B9D41500110618 /* tips5.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90CEC15B9D41500110618 /* tips5.png */; };
+		07B90CFA15B9D41500110618 /* tips6.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90CED15B9D41500110618 /* tips6.png */; };
+		07B90CFB15B9D41500110618 /* tips7.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90CEE15B9D41500110618 /* tips7.png */; };
+		07B90CFC15B9D41500110618 /* tips8.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90CEF15B9D41500110618 /* tips8.png */; };
+		07B90CFD15B9D41500110618 /* tips9.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90CF015B9D41500110618 /* tips9.png */; };
+		07B90CFE15B9D41500110618 /* tips10.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90CF115B9D41500110618 /* tips10.png */; };
+		07B90CFF15B9D41500110618 /* tips11.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90CF215B9D41500110618 /* tips11.png */; };
+		07B90D0015B9D41500110618 /* tips12.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90CF315B9D41500110618 /* tips12.png */; };
+		07B90D0115B9D41500110618 /* tips13.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90CF415B9D41500110618 /* tips13.png */; };
+		07B90D0215B9D41500110618 /* tips14.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90CF515B9D41500110618 /* tips14.png */; };
+		07B90D0315B9D41500110618 /* tips15.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90CF615B9D41500110618 /* tips15.png */; };
+		07B90D0415B9D41500110618 /* tips16.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90CF715B9D41500110618 /* tips16.png */; };
+		07B90D0615B9D69100110618 /* iconGGBS.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B90D0515B9D69100110618 /* iconGGBS.png */; };
+		07BB5BDD15B82E5C00CED732 /* tips1.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB5BDA15B82E5C00CED732 /* tips1.png */; };
+		07BB5BDE15B82E5C00CED732 /* tips2.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB5BDB15B82E5C00CED732 /* tips2.png */; };
+		07BB5BDF15B82E5C00CED732 /* tips3.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB5BDC15B82E5C00CED732 /* tips3.png */; };
 		07BB7178159D529200DECBE6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07BB7177159D529200DECBE6 /* UIKit.framework */; };
 		07BB717A159D529200DECBE6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07BB7179159D529200DECBE6 /* Foundation.framework */; };
 		07BB717C159D529200DECBE6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07BB717B159D529200DECBE6 /* CoreGraphics.framework */; };
@@ -14,13 +50,44 @@
 		07BB7184159D529200DECBE6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 07BB7183159D529200DECBE6 /* main.m */; };
 		07BB7188159D529200DECBE6 /* BCAAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 07BB7187159D529200DECBE6 /* BCAAppDelegate.m */; };
 		07BB718B159D529200DECBE6 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07BB7189159D529200DECBE6 /* MainStoryboard_iPhone.storyboard */; };
-		07BB718E159D529200DECBE6 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07BB718C159D529200DECBE6 /* MainStoryboard_iPad.storyboard */; };
 		07BB7191159D529200DECBE6 /* BCAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 07BB7190159D529200DECBE6 /* BCAViewController.m */; };
 		07BB7199159D529200DECBE6 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07BB7198159D529200DECBE6 /* SenTestingKit.framework */; };
 		07BB719A159D529200DECBE6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07BB7177159D529200DECBE6 /* UIKit.framework */; };
 		07BB719B159D529200DECBE6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07BB7179159D529200DECBE6 /* Foundation.framework */; };
 		07BB71A3159D529200DECBE6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71A1159D529200DECBE6 /* InfoPlist.strings */; };
 		07BB71A6159D529200DECBE6 /* CONQUAS_LiteTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 07BB71A5159D529200DECBE6 /* CONQUAS_LiteTests.m */; };
+		07BB71BC159D532800DECBE6 /* iconAbout.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71B0159D532800DECBE6 /* iconAbout.png */; };
+		07BB71BE159D532800DECBE6 /* iconChecklists.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71B2159D532800DECBE6 /* iconChecklists.png */; };
+		07BB71BF159D532800DECBE6 /* iconEBooks.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71B3159D532800DECBE6 /* iconEBooks.png */; };
+		07BB71C0159D532800DECBE6 /* iconFacebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71B4159D532800DECBE6 /* iconFacebook.png */; };
+		07BB71C1159D532800DECBE6 /* iconFeedback2.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71B5159D532800DECBE6 /* iconFeedback2.png */; };
+		07BB71C2159D532800DECBE6 /* iconMyProfile.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71B6159D532800DECBE6 /* iconMyProfile.png */; };
+		07BB71C3159D532800DECBE6 /* iconNotifications.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71B7159D532800DECBE6 /* iconNotifications.png */; };
+		07BB71C4159D532800DECBE6 /* iconSearch2.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71B8159D532800DECBE6 /* iconSearch2.png */; };
+		07BB71C5159D532800DECBE6 /* iconSettings.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71B9159D532800DECBE6 /* iconSettings.png */; };
+		07BB71C6159D532800DECBE6 /* iconTOS.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71BA159D532800DECBE6 /* iconTOS.png */; };
+		07BB71C7159D532800DECBE6 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71BB159D532800DECBE6 /* logo.png */; };
+		07BB71CB159D548400DECBE6 /* logo57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71CA159D548400DECBE6 /* logo57x57.png */; };
+		07BB71CF159D54EA00DECBE6 /* logo72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71CE159D54EA00DECBE6 /* logo72x72.png */; };
+		07BB71D1159D569700DECBE6 /* logoBCA.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BB71D0159D569700DECBE6 /* logoBCA.png */; };
+		07BBF5AB15DA86AC00C461BA /* bookGGBS.png in Resources */ = {isa = PBXBuildFile; fileRef = 07BBF5AA15DA86AC00C461BA /* bookGGBS.png */; };
+		07C10FD3162738F40041A292 /* iconCalculator.png in Resources */ = {isa = PBXBuildFile; fileRef = 07C10FCE162738F40041A292 /* iconCalculator.png */; };
+		07C10FD4162738F40041A292 /* iconFeedback.png in Resources */ = {isa = PBXBuildFile; fileRef = 07C10FCF162738F40041A292 /* iconFeedback.png */; };
+		07C10FD5162738F40041A292 /* iconSearch.png in Resources */ = {isa = PBXBuildFile; fileRef = 07C10FD0162738F40041A292 /* iconSearch.png */; };
+		07C10FD6162738F40041A292 /* iconTips.png in Resources */ = {isa = PBXBuildFile; fileRef = 07C10FD1162738F40041A292 /* iconTips.png */; };
+		07C10FD7162738F40041A292 /* logoBCAHorizontal.png in Resources */ = {isa = PBXBuildFile; fileRef = 07C10FD2162738F40041A292 /* logoBCAHorizontal.png */; };
+		07CC1B3F15B9284D00791D2F /* bookConquasManual6thEdition.png in Resources */ = {isa = PBXBuildFile; fileRef = 07CC1B3D15B9284D00791D2F /* bookConquasManual6thEdition.png */; };
+		07CC1B4015B9284D00791D2F /* bookConquasManual7thEdition.png in Resources */ = {isa = PBXBuildFile; fileRef = 07CC1B3E15B9284D00791D2F /* bookConquasManual7thEdition.png */; };
+		07CC1B4515B9360100791D2F /* viewTips.m in Sources */ = {isa = PBXBuildFile; fileRef = 07CC1B4415B9360100791D2F /* viewTips.m */; };
+		07DC54CB1626FF910067D286 /* bookGGBA.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07DC54CA1626FF910067D286 /* bookGGBA.jpeg */; };
+		07DC54CD1627025F0067D286 /* bgBookshelf.png in Resources */ = {isa = PBXBuildFile; fileRef = 07DC54CC1627025F0067D286 /* bgBookshelf.png */; };
+		07E06E1A15A8EB8300EABC26 /* bgBookshelf.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 07E06E1515A8EB8300EABC26 /* bgBookshelf.jpg */; };
+		07E06E1B15A8EB8300EABC26 /* iconCQMOnline.png in Resources */ = {isa = PBXBuildFile; fileRef = 07E06E1615A8EB8300EABC26 /* iconCQMOnline.png */; };
+		07E06E1C15A8EB8300EABC26 /* iconTerms.png in Resources */ = {isa = PBXBuildFile; fileRef = 07E06E1715A8EB8300EABC26 /* iconTerms.png */; };
+		07E06E1D15A8EB8300EABC26 /* imgMNDBuilding.png in Resources */ = {isa = PBXBuildFile; fileRef = 07E06E1815A8EB8300EABC26 /* imgMNDBuilding.png */; };
+		07E06E2215A8ED1200EABC26 /* logo57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 07E06E2015A8ED1200EABC26 /* logo57x57.png */; };
+		07E06E2315A8ED1200EABC26 /* logo72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = 07E06E2115A8ED1200EABC26 /* logo72x72.png */; };
+		07FB32B2159DC6B300AC88DC /* viewCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 07FB32B1159DC6B300AC88DC /* viewCalculator.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,26 +101,96 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		07BB7173159D529200DECBE6 /* CONQUAS Lite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CONQUAS Lite.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		077BF93315A8F54900AF4260 /* iconBBGA.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconBBGA.png; sourceTree = "<group>"; };
+		07A29BE2159E022B008A98EB /* btnDoneUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btnDoneUp.png; sourceTree = "<group>"; };
+		07A29BE5159E0231008A98EB /* btnDoneDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btnDoneDown.png; sourceTree = "<group>"; };
+		07ACE606159EE15B00316300 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
+		07AE871B15B30CFB00B619EC /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = data.plist; sourceTree = "<group>"; };
+		07AEC10A15BBF93800739487 /* bookCQMOnline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bookCQMOnline.png; sourceTree = "<group>"; };
+		07B57BA1159F12E700014528 /* bookWardrobesKitchenCabinets.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bookWardrobesKitchenCabinets.jpeg; sourceTree = "<group>"; };
+		07B57BA2159F12E700014528 /* bookPrecastConcreteElements.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bookPrecastConcreteElements.jpeg; sourceTree = "<group>"; };
+		07B57BA3159F12E700014528 /* bookDesignAndMaterialVol1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bookDesignAndMaterialVol1.jpeg; sourceTree = "<group>"; };
+		07B57BA4159F12E700014528 /* bookDesignAndMaterialVol2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bookDesignAndMaterialVol2.jpeg; sourceTree = "<group>"; };
+		07B57BA5159F12E700014528 /* bookWaterproofingForExternalWall.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bookWaterproofingForExternalWall.jpeg; sourceTree = "<group>"; };
+		07B57BA6159F12E700014528 /* bookCeramicTiling.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bookCeramicTiling.jpeg; sourceTree = "<group>"; };
+		07B57BA7159F12E700014528 /* bookTimberFlooring.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bookTimberFlooring.jpeg; sourceTree = "<group>"; };
+		07B57BA8159F12E700014528 /* bookMarbleAndGraniteFinishes.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bookMarbleAndGraniteFinishes.jpeg; sourceTree = "<group>"; };
+		07B57BA9159F12E700014528 /* bookAluminiumWindow.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bookAluminiumWindow.jpeg; sourceTree = "<group>"; };
+		07B57BAA159F12E700014528 /* bookWaterproofingForInternalWetAreas.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bookWaterproofingForInternalWetAreas.jpeg; sourceTree = "<group>"; };
+		07B57BAB159F12E700014528 /* bookTimberDoors.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bookTimberDoors.jpeg; sourceTree = "<group>"; };
+		07B57BAC159F12E700014528 /* bookPainting.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bookPainting.jpeg; sourceTree = "<group>"; };
+		07B57BB9159F18EE00014528 /* viewBooks.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = viewBooks.h; sourceTree = "<group>"; };
+		07B57BBA159F18EE00014528 /* viewBooks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = viewBooks.m; sourceTree = "<group>"; };
+		07B90CEB15B9D41500110618 /* tips4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips4.png; sourceTree = "<group>"; };
+		07B90CEC15B9D41500110618 /* tips5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips5.png; sourceTree = "<group>"; };
+		07B90CED15B9D41500110618 /* tips6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips6.png; sourceTree = "<group>"; };
+		07B90CEE15B9D41500110618 /* tips7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips7.png; sourceTree = "<group>"; };
+		07B90CEF15B9D41500110618 /* tips8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips8.png; sourceTree = "<group>"; };
+		07B90CF015B9D41500110618 /* tips9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips9.png; sourceTree = "<group>"; };
+		07B90CF115B9D41500110618 /* tips10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips10.png; sourceTree = "<group>"; };
+		07B90CF215B9D41500110618 /* tips11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips11.png; sourceTree = "<group>"; };
+		07B90CF315B9D41500110618 /* tips12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips12.png; sourceTree = "<group>"; };
+		07B90CF415B9D41500110618 /* tips13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips13.png; sourceTree = "<group>"; };
+		07B90CF515B9D41500110618 /* tips14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips14.png; sourceTree = "<group>"; };
+		07B90CF615B9D41500110618 /* tips15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips15.png; sourceTree = "<group>"; };
+		07B90CF715B9D41500110618 /* tips16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips16.png; sourceTree = "<group>"; };
+		07B90D0515B9D69100110618 /* iconGGBS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconGGBS.png; sourceTree = "<group>"; };
+		07BB5BDA15B82E5C00CED732 /* tips1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips1.png; sourceTree = "<group>"; };
+		07BB5BDB15B82E5C00CED732 /* tips2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips2.png; sourceTree = "<group>"; };
+		07BB5BDC15B82E5C00CED732 /* tips3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tips3.png; sourceTree = "<group>"; };
+		07BB7173159D529200DECBE6 /* CONQUAS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CONQUAS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07BB7177159D529200DECBE6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		07BB7179159D529200DECBE6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		07BB717B159D529200DECBE6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		07BB717F159D529200DECBE6 /* CONQUAS Lite-Info.plist */ = {isa = PBXFileReference; path = "CONQUAS Lite-Info.plist"; sourceTree = "<group>"; };
+		07BB717F159D529200DECBE6 /* CONQUAS Lite-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CONQUAS Lite-Info.plist"; sourceTree = "<group>"; };
 		07BB7181159D529200DECBE6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		07BB7183159D529200DECBE6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		07BB7185159D529200DECBE6 /* CONQUAS Lite-Prefix.pch */ = {isa = PBXFileReference; path = "CONQUAS Lite-Prefix.pch"; sourceTree = "<group>"; };
-		07BB7186159D529200DECBE6 /* BCAAppDelegate.h */ = {isa = PBXFileReference; path = BCAAppDelegate.h; sourceTree = "<group>"; };
+		07BB7185159D529200DECBE6 /* CONQUAS Lite-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CONQUAS Lite-Prefix.pch"; sourceTree = "<group>"; };
+		07BB7186159D529200DECBE6 /* BCAAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BCAAppDelegate.h; sourceTree = "<group>"; };
 		07BB7187159D529200DECBE6 /* BCAAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BCAAppDelegate.m; sourceTree = "<group>"; };
 		07BB718A159D529200DECBE6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
-		07BB718D159D529200DECBE6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		07BB718F159D529200DECBE6 /* BCAViewController.h */ = {isa = PBXFileReference; path = BCAViewController.h; sourceTree = "<group>"; };
+		07BB718F159D529200DECBE6 /* BCAViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BCAViewController.h; sourceTree = "<group>"; };
 		07BB7190159D529200DECBE6 /* BCAViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BCAViewController.m; sourceTree = "<group>"; };
 		07BB7197159D529200DECBE6 /* CONQUAS LiteTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CONQUAS LiteTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		07BB7198159D529200DECBE6 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		07BB71A0159D529200DECBE6 /* CONQUAS LiteTests-Info.plist */ = {isa = PBXFileReference; path = "CONQUAS LiteTests-Info.plist"; sourceTree = "<group>"; };
+		07BB71A0159D529200DECBE6 /* CONQUAS LiteTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CONQUAS LiteTests-Info.plist"; sourceTree = "<group>"; };
 		07BB71A2159D529200DECBE6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		07BB71A4159D529200DECBE6 /* CONQUAS_LiteTests.h */ = {isa = PBXFileReference; path = CONQUAS_LiteTests.h; sourceTree = "<group>"; };
+		07BB71A4159D529200DECBE6 /* CONQUAS_LiteTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CONQUAS_LiteTests.h; sourceTree = "<group>"; };
 		07BB71A5159D529200DECBE6 /* CONQUAS_LiteTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CONQUAS_LiteTests.m; sourceTree = "<group>"; };
+		07BB71B0159D532800DECBE6 /* iconAbout.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconAbout.png; sourceTree = "<group>"; };
+		07BB71B2159D532800DECBE6 /* iconChecklists.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconChecklists.png; sourceTree = "<group>"; };
+		07BB71B3159D532800DECBE6 /* iconEBooks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconEBooks.png; sourceTree = "<group>"; };
+		07BB71B4159D532800DECBE6 /* iconFacebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconFacebook.png; sourceTree = "<group>"; };
+		07BB71B5159D532800DECBE6 /* iconFeedback2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconFeedback2.png; sourceTree = "<group>"; };
+		07BB71B6159D532800DECBE6 /* iconMyProfile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconMyProfile.png; sourceTree = "<group>"; };
+		07BB71B7159D532800DECBE6 /* iconNotifications.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconNotifications.png; sourceTree = "<group>"; };
+		07BB71B8159D532800DECBE6 /* iconSearch2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconSearch2.png; sourceTree = "<group>"; };
+		07BB71B9159D532800DECBE6 /* iconSettings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconSettings.png; sourceTree = "<group>"; };
+		07BB71BA159D532800DECBE6 /* iconTOS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconTOS.png; sourceTree = "<group>"; };
+		07BB71BB159D532800DECBE6 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		07BB71CA159D548400DECBE6 /* logo57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo57x57.png; sourceTree = "<group>"; };
+		07BB71CE159D54EA00DECBE6 /* logo72x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo72x72.png; sourceTree = "<group>"; };
+		07BB71D0159D569700DECBE6 /* logoBCA.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logoBCA.png; sourceTree = "<group>"; };
+		07BBF5AA15DA86AC00C461BA /* bookGGBS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bookGGBS.png; sourceTree = "<group>"; };
+		07C10FCE162738F40041A292 /* iconCalculator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconCalculator.png; sourceTree = "<group>"; };
+		07C10FCF162738F40041A292 /* iconFeedback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconFeedback.png; sourceTree = "<group>"; };
+		07C10FD0162738F40041A292 /* iconSearch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconSearch.png; sourceTree = "<group>"; };
+		07C10FD1162738F40041A292 /* iconTips.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconTips.png; sourceTree = "<group>"; };
+		07C10FD2162738F40041A292 /* logoBCAHorizontal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logoBCAHorizontal.png; sourceTree = "<group>"; };
+		07CC1B3D15B9284D00791D2F /* bookConquasManual6thEdition.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bookConquasManual6thEdition.png; sourceTree = "<group>"; };
+		07CC1B3E15B9284D00791D2F /* bookConquasManual7thEdition.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bookConquasManual7thEdition.png; sourceTree = "<group>"; };
+		07CC1B4315B9360100791D2F /* viewTips.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = viewTips.h; sourceTree = "<group>"; };
+		07CC1B4415B9360100791D2F /* viewTips.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = viewTips.m; sourceTree = "<group>"; };
+		07DC54CA1626FF910067D286 /* bookGGBA.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bookGGBA.jpeg; sourceTree = "<group>"; };
+		07DC54CC1627025F0067D286 /* bgBookshelf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bgBookshelf.png; sourceTree = "<group>"; };
+		07E06E1515A8EB8300EABC26 /* bgBookshelf.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bgBookshelf.jpg; sourceTree = "<group>"; };
+		07E06E1615A8EB8300EABC26 /* iconCQMOnline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconCQMOnline.png; sourceTree = "<group>"; };
+		07E06E1715A8EB8300EABC26 /* iconTerms.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconTerms.png; sourceTree = "<group>"; };
+		07E06E1815A8EB8300EABC26 /* imgMNDBuilding.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imgMNDBuilding.png; sourceTree = "<group>"; };
+		07E06E2015A8ED1200EABC26 /* logo57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo57x57.png; sourceTree = "<group>"; };
+		07E06E2115A8ED1200EABC26 /* logo72x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo72x72.png; sourceTree = "<group>"; };
+		07FB32B0159DC6B300AC88DC /* viewCalculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = viewCalculator.h; sourceTree = "<group>"; };
+		07FB32B1159DC6B300AC88DC /* viewCalculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = viewCalculator.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +198,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07ACE607159EE15B00316300 /* libsqlite3.dylib in Frameworks */,
 				07BB7178159D529200DECBE6 /* UIKit.framework in Frameworks */,
 				07BB717A159D529200DECBE6 /* Foundation.framework in Frameworks */,
 				07BB717C159D529200DECBE6 /* CoreGraphics.framework in Frameworks */,
@@ -80,9 +218,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		07B57B9F159F12CF00014528 /* Books */ = {
+			isa = PBXGroup;
+			children = (
+				07CC1B3D15B9284D00791D2F /* bookConquasManual6thEdition.png */,
+				07CC1B3E15B9284D00791D2F /* bookConquasManual7thEdition.png */,
+				07B57BA1159F12E700014528 /* bookWardrobesKitchenCabinets.jpeg */,
+				07B57BA2159F12E700014528 /* bookPrecastConcreteElements.jpeg */,
+				07B57BA3159F12E700014528 /* bookDesignAndMaterialVol1.jpeg */,
+				07B57BA4159F12E700014528 /* bookDesignAndMaterialVol2.jpeg */,
+				07B57BA5159F12E700014528 /* bookWaterproofingForExternalWall.jpeg */,
+				07B57BA6159F12E700014528 /* bookCeramicTiling.jpeg */,
+				07B57BA7159F12E700014528 /* bookTimberFlooring.jpeg */,
+				07B57BA8159F12E700014528 /* bookMarbleAndGraniteFinishes.jpeg */,
+				07B57BA9159F12E700014528 /* bookAluminiumWindow.jpeg */,
+				07B57BAA159F12E700014528 /* bookWaterproofingForInternalWetAreas.jpeg */,
+				07B57BAB159F12E700014528 /* bookTimberDoors.jpeg */,
+				07B57BAC159F12E700014528 /* bookPainting.jpeg */,
+			);
+			name = Books;
+			sourceTree = "<group>";
+		};
 		07BB7168159D529200DECBE6 = {
 			isa = PBXGroup;
 			children = (
+				07ACE606159EE15B00316300 /* libsqlite3.dylib */,
+				07BB71CE159D54EA00DECBE6 /* logo72x72.png */,
+				07BB71CA159D548400DECBE6 /* logo57x57.png */,
 				07BB717D159D529200DECBE6 /* CONQUAS Lite */,
 				07BB719E159D529200DECBE6 /* CONQUAS LiteTests */,
 				07BB7176159D529200DECBE6 /* Frameworks */,
@@ -93,7 +255,7 @@
 		07BB7174159D529200DECBE6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				07BB7173159D529200DECBE6 /* CONQUAS Lite.app */,
+				07BB7173159D529200DECBE6 /* CONQUAS.app */,
 				07BB7197159D529200DECBE6 /* CONQUAS LiteTests.octest */,
 			);
 			name = Products;
@@ -113,12 +275,19 @@
 		07BB717D159D529200DECBE6 /* CONQUAS Lite */ = {
 			isa = PBXGroup;
 			children = (
+				07BB71AF159D530F00DECBE6 /* Resources */,
 				07BB7186159D529200DECBE6 /* BCAAppDelegate.h */,
 				07BB7187159D529200DECBE6 /* BCAAppDelegate.m */,
 				07BB7189159D529200DECBE6 /* MainStoryboard_iPhone.storyboard */,
-				07BB718C159D529200DECBE6 /* MainStoryboard_iPad.storyboard */,
+				07CC1B4315B9360100791D2F /* viewTips.h */,
+				07CC1B4415B9360100791D2F /* viewTips.m */,
+				07B57BB9159F18EE00014528 /* viewBooks.h */,
+				07B57BBA159F18EE00014528 /* viewBooks.m */,
+				07FB32B0159DC6B300AC88DC /* viewCalculator.h */,
+				07FB32B1159DC6B300AC88DC /* viewCalculator.m */,
 				07BB718F159D529200DECBE6 /* BCAViewController.h */,
 				07BB7190159D529200DECBE6 /* BCAViewController.m */,
+				07AE871B15B30CFB00B619EC /* data.plist */,
 				07BB717E159D529200DECBE6 /* Supporting Files */,
 			);
 			path = "CONQUAS Lite";
@@ -154,6 +323,61 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		07BB71AF159D530F00DECBE6 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				07C10FCE162738F40041A292 /* iconCalculator.png */,
+				07C10FCF162738F40041A292 /* iconFeedback.png */,
+				07C10FD0162738F40041A292 /* iconSearch.png */,
+				07C10FD1162738F40041A292 /* iconTips.png */,
+				07C10FD2162738F40041A292 /* logoBCAHorizontal.png */,
+				07DC54CC1627025F0067D286 /* bgBookshelf.png */,
+				07DC54CA1626FF910067D286 /* bookGGBA.jpeg */,
+				07BBF5AA15DA86AC00C461BA /* bookGGBS.png */,
+				07AEC10A15BBF93800739487 /* bookCQMOnline.png */,
+				07B90CEB15B9D41500110618 /* tips4.png */,
+				07B90CEC15B9D41500110618 /* tips5.png */,
+				07B90CED15B9D41500110618 /* tips6.png */,
+				07B90CEE15B9D41500110618 /* tips7.png */,
+				07B90CEF15B9D41500110618 /* tips8.png */,
+				07B90CF015B9D41500110618 /* tips9.png */,
+				07B90CF115B9D41500110618 /* tips10.png */,
+				07B90CF215B9D41500110618 /* tips11.png */,
+				07B90CF315B9D41500110618 /* tips12.png */,
+				07B90CF415B9D41500110618 /* tips13.png */,
+				07B90CF515B9D41500110618 /* tips14.png */,
+				07B90CF615B9D41500110618 /* tips15.png */,
+				07B90CF715B9D41500110618 /* tips16.png */,
+				07BB5BDA15B82E5C00CED732 /* tips1.png */,
+				07BB5BDB15B82E5C00CED732 /* tips2.png */,
+				07BB5BDC15B82E5C00CED732 /* tips3.png */,
+				07B90D0515B9D69100110618 /* iconGGBS.png */,
+				077BF93315A8F54900AF4260 /* iconBBGA.png */,
+				07E06E2015A8ED1200EABC26 /* logo57x57.png */,
+				07E06E2115A8ED1200EABC26 /* logo72x72.png */,
+				07E06E1515A8EB8300EABC26 /* bgBookshelf.jpg */,
+				07E06E1615A8EB8300EABC26 /* iconCQMOnline.png */,
+				07E06E1715A8EB8300EABC26 /* iconTerms.png */,
+				07E06E1815A8EB8300EABC26 /* imgMNDBuilding.png */,
+				07B57B9F159F12CF00014528 /* Books */,
+				07A29BE5159E0231008A98EB /* btnDoneDown.png */,
+				07A29BE2159E022B008A98EB /* btnDoneUp.png */,
+				07BB71D0159D569700DECBE6 /* logoBCA.png */,
+				07BB71B0159D532800DECBE6 /* iconAbout.png */,
+				07BB71B2159D532800DECBE6 /* iconChecklists.png */,
+				07BB71B3159D532800DECBE6 /* iconEBooks.png */,
+				07BB71B4159D532800DECBE6 /* iconFacebook.png */,
+				07BB71B5159D532800DECBE6 /* iconFeedback2.png */,
+				07BB71B6159D532800DECBE6 /* iconMyProfile.png */,
+				07BB71B7159D532800DECBE6 /* iconNotifications.png */,
+				07BB71B8159D532800DECBE6 /* iconSearch2.png */,
+				07BB71B9159D532800DECBE6 /* iconSettings.png */,
+				07BB71BA159D532800DECBE6 /* iconTOS.png */,
+				07BB71BB159D532800DECBE6 /* logo.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -171,7 +395,7 @@
 			);
 			name = "CONQUAS Lite";
 			productName = "CONQUAS Lite";
-			productReference = 07BB7173159D529200DECBE6 /* CONQUAS Lite.app */;
+			productReference = 07BB7173159D529200DECBE6 /* CONQUAS.app */;
 			productType = "com.apple.product-type.application";
 		};
 		07BB7196159D529200DECBE6 /* CONQUAS LiteTests */ = {
@@ -228,7 +452,70 @@
 			files = (
 				07BB7182159D529200DECBE6 /* InfoPlist.strings in Resources */,
 				07BB718B159D529200DECBE6 /* MainStoryboard_iPhone.storyboard in Resources */,
-				07BB718E159D529200DECBE6 /* MainStoryboard_iPad.storyboard in Resources */,
+				07BB71BC159D532800DECBE6 /* iconAbout.png in Resources */,
+				07BB71BE159D532800DECBE6 /* iconChecklists.png in Resources */,
+				07BB71BF159D532800DECBE6 /* iconEBooks.png in Resources */,
+				07BB71C0159D532800DECBE6 /* iconFacebook.png in Resources */,
+				07BB71C1159D532800DECBE6 /* iconFeedback2.png in Resources */,
+				07BB71C2159D532800DECBE6 /* iconMyProfile.png in Resources */,
+				07BB71C3159D532800DECBE6 /* iconNotifications.png in Resources */,
+				07BB71C4159D532800DECBE6 /* iconSearch2.png in Resources */,
+				07BB71C5159D532800DECBE6 /* iconSettings.png in Resources */,
+				07BB71C6159D532800DECBE6 /* iconTOS.png in Resources */,
+				07BB71C7159D532800DECBE6 /* logo.png in Resources */,
+				07BB71CB159D548400DECBE6 /* logo57x57.png in Resources */,
+				07BB71CF159D54EA00DECBE6 /* logo72x72.png in Resources */,
+				07BB71D1159D569700DECBE6 /* logoBCA.png in Resources */,
+				07A29BE3159E022B008A98EB /* btnDoneUp.png in Resources */,
+				07A29BE6159E0231008A98EB /* btnDoneDown.png in Resources */,
+				07B57BAD159F12E700014528 /* bookWardrobesKitchenCabinets.jpeg in Resources */,
+				07B57BAE159F12E700014528 /* bookPrecastConcreteElements.jpeg in Resources */,
+				07B57BAF159F12E700014528 /* bookDesignAndMaterialVol1.jpeg in Resources */,
+				07B57BB0159F12E700014528 /* bookDesignAndMaterialVol2.jpeg in Resources */,
+				07B57BB1159F12E700014528 /* bookWaterproofingForExternalWall.jpeg in Resources */,
+				07B57BB2159F12E700014528 /* bookCeramicTiling.jpeg in Resources */,
+				07B57BB3159F12E700014528 /* bookTimberFlooring.jpeg in Resources */,
+				07B57BB4159F12E700014528 /* bookMarbleAndGraniteFinishes.jpeg in Resources */,
+				07B57BB5159F12E700014528 /* bookAluminiumWindow.jpeg in Resources */,
+				07B57BB6159F12E700014528 /* bookWaterproofingForInternalWetAreas.jpeg in Resources */,
+				07B57BB7159F12E700014528 /* bookTimberDoors.jpeg in Resources */,
+				07B57BB8159F12E700014528 /* bookPainting.jpeg in Resources */,
+				07E06E1A15A8EB8300EABC26 /* bgBookshelf.jpg in Resources */,
+				07E06E1B15A8EB8300EABC26 /* iconCQMOnline.png in Resources */,
+				07E06E1C15A8EB8300EABC26 /* iconTerms.png in Resources */,
+				07E06E1D15A8EB8300EABC26 /* imgMNDBuilding.png in Resources */,
+				07E06E2215A8ED1200EABC26 /* logo57x57.png in Resources */,
+				07E06E2315A8ED1200EABC26 /* logo72x72.png in Resources */,
+				077BF93415A8F54900AF4260 /* iconBBGA.png in Resources */,
+				07AE871C15B30CFB00B619EC /* data.plist in Resources */,
+				07BB5BDD15B82E5C00CED732 /* tips1.png in Resources */,
+				07BB5BDE15B82E5C00CED732 /* tips2.png in Resources */,
+				07BB5BDF15B82E5C00CED732 /* tips3.png in Resources */,
+				07CC1B3F15B9284D00791D2F /* bookConquasManual6thEdition.png in Resources */,
+				07CC1B4015B9284D00791D2F /* bookConquasManual7thEdition.png in Resources */,
+				07B90CF815B9D41500110618 /* tips4.png in Resources */,
+				07B90CF915B9D41500110618 /* tips5.png in Resources */,
+				07B90CFA15B9D41500110618 /* tips6.png in Resources */,
+				07B90CFB15B9D41500110618 /* tips7.png in Resources */,
+				07B90CFC15B9D41500110618 /* tips8.png in Resources */,
+				07B90CFD15B9D41500110618 /* tips9.png in Resources */,
+				07B90CFE15B9D41500110618 /* tips10.png in Resources */,
+				07B90CFF15B9D41500110618 /* tips11.png in Resources */,
+				07B90D0015B9D41500110618 /* tips12.png in Resources */,
+				07B90D0115B9D41500110618 /* tips13.png in Resources */,
+				07B90D0215B9D41500110618 /* tips14.png in Resources */,
+				07B90D0315B9D41500110618 /* tips15.png in Resources */,
+				07B90D0415B9D41500110618 /* tips16.png in Resources */,
+				07B90D0615B9D69100110618 /* iconGGBS.png in Resources */,
+				07AEC11915BBF93800739487 /* bookCQMOnline.png in Resources */,
+				07BBF5AB15DA86AC00C461BA /* bookGGBS.png in Resources */,
+				07DC54CB1626FF910067D286 /* bookGGBA.jpeg in Resources */,
+				07DC54CD1627025F0067D286 /* bgBookshelf.png in Resources */,
+				07C10FD3162738F40041A292 /* iconCalculator.png in Resources */,
+				07C10FD4162738F40041A292 /* iconFeedback.png in Resources */,
+				07C10FD5162738F40041A292 /* iconSearch.png in Resources */,
+				07C10FD6162738F40041A292 /* iconTips.png in Resources */,
+				07C10FD7162738F40041A292 /* logoBCAHorizontal.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +553,9 @@
 				07BB7184159D529200DECBE6 /* main.m in Sources */,
 				07BB7188159D529200DECBE6 /* BCAAppDelegate.m in Sources */,
 				07BB7191159D529200DECBE6 /* BCAViewController.m in Sources */,
+				07FB32B2159DC6B300AC88DC /* viewCalculator.m in Sources */,
+				07B57BBB159F18EE00014528 /* viewBooks.m in Sources */,
+				07CC1B4515B9360100791D2F /* viewTips.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,14 +594,6 @@
 			name = MainStoryboard_iPhone.storyboard;
 			sourceTree = "<group>";
 		};
-		07BB718C159D529200DECBE6 /* MainStoryboard_iPad.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				07BB718D159D529200DECBE6 /* en */,
-			);
-			name = MainStoryboard_iPad.storyboard;
-			sourceTree = "<group>";
-		};
 		07BB71A1159D529200DECBE6 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -329,6 +611,7 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -344,6 +627,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -355,6 +640,7 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -364,6 +650,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -373,10 +661,16 @@
 		07BB71AA159D529200DECBE6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Eric Teng (YY78F6L2NH)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Eric Teng (YY78F6L2NH)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CONQUAS Lite/CONQUAS Lite-Prefix.pch";
 				INFOPLIST_FILE = "CONQUAS Lite/CONQUAS Lite-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PRODUCT_NAME = CONQUAS;
+				PROVISIONING_PROFILE = "6AC17FE2-DF48-49FF-9CF3-7CA36C19CBC9";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "6AC17FE2-DF48-49FF-9CF3-7CA36C19CBC9";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -384,10 +678,16 @@
 		07BB71AB159D529200DECBE6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Eric Teng (YY78F6L2NH)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Eric Teng (YY78F6L2NH)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CONQUAS Lite/CONQUAS Lite-Prefix.pch";
 				INFOPLIST_FILE = "CONQUAS Lite/CONQUAS Lite-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PRODUCT_NAME = CONQUAS;
+				PROVISIONING_PROFILE = "6AC17FE2-DF48-49FF-9CF3-7CA36C19CBC9";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "6AC17FE2-DF48-49FF-9CF3-7CA36C19CBC9";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -445,6 +745,7 @@
 				07BB71AB159D529200DECBE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		07BB71AC159D529200DECBE6 /* Build configuration list for PBXNativeTarget "CONQUAS LiteTests" */ = {
 			isa = XCConfigurationList;
@@ -453,6 +754,7 @@
 				07BB71AE159D529200DECBE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
